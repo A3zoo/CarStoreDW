@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CarSalesOLAP", "CarSalesOLAP\CarSalesOLAP.dwproj", "{71342FCE-13AF-4FC4-86FF-A2AE27543830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71342FCE-13AF-4FC4-86FF-A2AE27543830}.Development|Default.ActiveCfg = Development
+		{71342FCE-13AF-4FC4-86FF-A2AE27543830}.Development|Default.Build.0 = Development
+		{71342FCE-13AF-4FC4-86FF-A2AE27543830}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B0E975-919F-43BE-BB40-9AD9C5B6B83B}
+	EndGlobalSection
+EndGlobal

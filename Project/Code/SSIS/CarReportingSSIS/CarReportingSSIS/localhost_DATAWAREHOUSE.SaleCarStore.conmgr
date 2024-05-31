@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost_DATAWAREHOUSE.SaleCarStore"
+  DTS:DTSID="{98F333D3-9F83-4AB6-9794-BA9C42A6765F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost\DATAWAREHOUSE;Initial Catalog=SaleCarStore;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-CarReportingSSIS-{98F333D3-9F83-4AB6-9794-BA9C42A6765F}localhost\DATAWAREHOUSE.SaleCarStore;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
